@@ -1,2 +1,2 @@
 # PYTHON
-experiencing a fascinating language
+experiencing simple python language
